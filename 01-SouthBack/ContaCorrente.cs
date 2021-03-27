@@ -7,8 +7,31 @@ namespace _01_SouthBack
     class ContaCorrente
     {
         public Cliente Titular;
-        public int Agencia { get; set; }
+
+        private int _agencia;
+        public int Agencia
+        {
+            get
+            {
+                return _agencia;
+            }
+            set
+            {
+                if(value <= 0)
+                {
+                    return;
+                }
+                else
+                {
+                    _agencia = value;
+                }
+
+            }
+        }
         public int Conta { get; set; }
+        
+        
+        
         private double _saldo;
         public double Saldo
         {
@@ -25,6 +48,7 @@ namespace _01_SouthBack
                 }
             }
         }
+
 
     }
 }
