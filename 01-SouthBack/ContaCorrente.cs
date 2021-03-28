@@ -28,7 +28,7 @@ namespace _01_SouthBack
 
             }
         }
-        public int Conta { get; set; }
+        public int Numero { get; set; }
         
         
         
@@ -49,6 +49,13 @@ namespace _01_SouthBack
             }
         }
 
+        //Construtor de inicio da classe
+        public ContaCorrente(int agencia, int numero)
+        {
+            Agencia = agencia;
+            Numero = numero;
+            
+        }
 
     }
 }
