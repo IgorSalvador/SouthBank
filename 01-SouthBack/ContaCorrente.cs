@@ -72,5 +72,19 @@ namespace _01_SouthBack
             }
         }
 
+        public bool Sacar(double valor)
+        {
+            //Impossivel realizar a operação, para que seja realizada o valor de saque precisa ser menor que o saldo
+            if(valor > this._saldo)
+            {
+                return false;
+            }
+            else
+            {
+                this._saldo -= valor;
+                return true;
+            }
+        }
+
     }
 }
