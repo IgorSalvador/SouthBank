@@ -57,5 +57,20 @@ namespace _01_SouthBack
             
         }
 
+        public bool Depositar(double valor)
+        {
+            //Para que o deposito possa ser realizado, o valor tem que ser maior que zero
+            if(valor <= 0)
+            {
+                return false;
+            }
+            //soma o valor do deposito ao saldo e retorna true para a operação
+            else
+            {
+                this._saldo += valor;
+                return true;
+            }
+        }
+
     }
 }

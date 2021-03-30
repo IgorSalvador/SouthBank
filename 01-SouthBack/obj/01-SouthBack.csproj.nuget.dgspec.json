@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Igorh\\Documents\\MeusProjetos\\SouthBank\\01-SouthBack\\01-SouthBack.csproj": {}
+    "C:\\Users\\Igor\\Documents\\MeusProjetos\\SouthBank\\01-SouthBack\\01-SouthBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Igorh\\Documents\\MeusProjetos\\SouthBank\\01-SouthBack\\01-SouthBack.csproj": {
+    "C:\\Users\\Igor\\Documents\\MeusProjetos\\SouthBank\\01-SouthBack\\01-SouthBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igorh\\Documents\\MeusProjetos\\SouthBank\\01-SouthBack\\01-SouthBack.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\Documents\\MeusProjetos\\SouthBank\\01-SouthBack\\01-SouthBack.csproj",
         "projectName": "01-SouthBack",
-        "projectPath": "C:\\Users\\Igorh\\Documents\\MeusProjetos\\SouthBank\\01-SouthBack\\01-SouthBack.csproj",
-        "packagesPath": "C:\\Users\\Igorh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Igorh\\Documents\\MeusProjetos\\SouthBank\\01-SouthBack\\obj\\",
+        "projectPath": "C:\\Users\\Igor\\Documents\\MeusProjetos\\SouthBank\\01-SouthBack\\01-SouthBack.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor\\Documents\\MeusProjetos\\SouthBank\\01-SouthBack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Igorh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
