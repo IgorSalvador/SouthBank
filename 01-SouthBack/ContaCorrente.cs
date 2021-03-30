@@ -42,7 +42,7 @@ namespace _01_SouthBack
             set
             {
                 //Value representa o valor externo a ser adicionado
-                if(value < 0)
+                if(value > 0)
                 {
                     _saldo = value;
                 }

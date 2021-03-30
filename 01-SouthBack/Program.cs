@@ -16,6 +16,8 @@ namespace _01_SouthBack
             agencia = int.Parse(Console.ReadLine());
 
             ContaCorrente conta = new ContaCorrente(contaNumero, agencia);
+            conta.Saldo = 2000;
+            Console.WriteLine(conta.Saldo);
         }
     }
 }

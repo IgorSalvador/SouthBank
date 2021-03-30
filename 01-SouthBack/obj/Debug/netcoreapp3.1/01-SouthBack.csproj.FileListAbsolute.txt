@@ -1,0 +1,13 @@
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\bin\Debug\netcoreapp3.1\01-SouthBack.exe
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\bin\Debug\netcoreapp3.1\01-SouthBack.deps.json
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\bin\Debug\netcoreapp3.1\01-SouthBack.runtimeconfig.json
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\bin\Debug\netcoreapp3.1\01-SouthBack.runtimeconfig.dev.json
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\bin\Debug\netcoreapp3.1\01-SouthBack.dll
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\bin\Debug\netcoreapp3.1\01-SouthBack.pdb
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\obj\Debug\netcoreapp3.1\01-SouthBack.csprojAssemblyReference.cache
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\obj\Debug\netcoreapp3.1\01-SouthBack.AssemblyInfoInputs.cache
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\obj\Debug\netcoreapp3.1\01-SouthBack.AssemblyInfo.cs
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\obj\Debug\netcoreapp3.1\01-SouthBack.csproj.CoreCompileInputs.cache
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\obj\Debug\netcoreapp3.1\01-SouthBack.dll
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\obj\Debug\netcoreapp3.1\01-SouthBack.pdb
+C:\Users\Igorh\Documents\MeusProjetos\SouthBank\01-SouthBack\obj\Debug\netcoreapp3.1\01-SouthBack.genruntimeconfig.cache
