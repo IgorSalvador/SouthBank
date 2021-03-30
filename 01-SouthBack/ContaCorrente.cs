@@ -86,6 +86,7 @@ namespace _01_SouthBack
             }
         }
 
+        //Função de transferencia, valor é retirada a conta referenciada na função e adicionado a conta destino
         public bool Transferir(double valor, ContaCorrente ContaDestino)
         {
             if(valor > this._saldo)
