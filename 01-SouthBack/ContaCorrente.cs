@@ -86,5 +86,19 @@ namespace _01_SouthBack
             }
         }
 
+        public bool Transferir(double valor, ContaCorrente ContaDestino)
+        {
+            if(valor > this._saldo)
+            {
+                return false;
+            }
+            else
+            {
+                ContaDestino._saldo += valor;
+                this._saldo -= valor;
+                return true;
+            }
+        }
+
     }
 }
