@@ -30,8 +30,6 @@ namespace _01_SouthBack
         }
         public int Numero { get; set; }
         
-        
-        
         private double _saldo;
         public double Saldo
         {
